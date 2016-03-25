@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Widyatama AR</string>
+    <string name="action_add_random_poi">Create random POI</string>
+    <string name="action_add_cardinal_pois">Add cardinal direction POIs</string>
+    <string name="action_delete_last_poi">Delete last created POI</string>
+    <string name="action_delete_all_pois">Delete all POIs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_about">Tentang</string>
+
+</resources>

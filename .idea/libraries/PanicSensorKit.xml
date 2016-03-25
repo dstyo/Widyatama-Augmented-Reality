@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PanicSensorKit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Framework/libs/PanicSensorKit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
